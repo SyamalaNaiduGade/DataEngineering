@@ -5,7 +5,7 @@ Welcome to the **Data Engineering** repository — a complete, hands-on learning
 ## 🗂️ Repository Structure
 
 The repository is structured into five main steps. Each folder contains topic-wise subfolders, practice files, real data scenarios, and relevant documentation.
-data-engineering/
+DataEngineering/
 │
 ├── SQL/
 │ ├── Basic_Syntax/
@@ -96,8 +96,8 @@ Implement cloud-native solutions.
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/data-engineering.git
-   cd data-engineering
+   git clone https://github.com/SyamalaNaiduGade/DataEngineering.git
+   cd DataEngineering
 
 2. Navigate into any topic directory and start exploring .sql, .py, or .md files.
 
@@ -113,5 +113,4 @@ Help improve folder organization and explanations.
 ## 📧 For queries or suggestions, feel free to open an Issue.
 
 ## 🏁 License
-
-MIT License — feel free to use, fork, and share with attribution.
+Feel free to use, fork, and share with attribution.
